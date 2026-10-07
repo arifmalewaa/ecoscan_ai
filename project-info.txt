@@ -1,0 +1,5 @@
+EcoScan AI
+Project: AI Waste Sorting
+Categories: Organik, Plastik, Kaca, Kertas
+Model: Teachable Machine
+Model URL: https://teachablemachine.withgoogle.com/models/CDYnNx0_A/
